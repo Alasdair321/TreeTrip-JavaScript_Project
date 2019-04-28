@@ -1,5 +1,9 @@
-# w09_project
-CarbonTrip Javascript Project
+# CodeClan Week 9 Group Project
+Alasdair Carstairs, Eric Cross, Myriam Boran
+
+TreeTrip Javascript Project
+
+
 
 Install dependencies:
 
