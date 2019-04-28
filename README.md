@@ -1,7 +1,7 @@
 # CodeClan Week 9 Group Project
 **[Alasdair Carstairs](https://github.com/Alasdair321), [Eric Cross](https://github.com/ericxcross), [Myriam Boran](https://github.com/MyriamBoran)**
 
-##TreeTrip Javascript Project
+## TreeTrip Javascript Project
 
 Find out the number of trees required to absorb the released CO2 from your trip by selecting from the transport categories and providing the distance travelled.
 
@@ -12,7 +12,7 @@ Find out the number of trees required to absorb the released CO2 from your trip 
 ![Screenshot results](client/public/images/screenshot5.png)
 ![Screenshot alternative options](client/public/images/screenshot6.png)
 
-##Running the website locally:
+## Running the website locally:
 
 Install dependencies:
 
