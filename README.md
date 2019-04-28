@@ -3,7 +3,7 @@ Alasdair Carstairs, Eric Cross, Myriam Boran
 
 TreeTrip Javascript Project
 
-![Screenshot landing page](client/public/images/Screenshot 2019-04-28 at 11.29.37.png)
+![Screenshot landing page](/client/public/images/Screenshot 2019-04-28 at 11.29.37.png)
 
 Install dependencies:
 
